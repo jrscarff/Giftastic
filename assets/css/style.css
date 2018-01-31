@@ -1,4 +1,26 @@
+body {
+	background-image: url(https://1.bp.blogspot.com/-CYQ5F9q6YlE/VIX6zgIg8EI/AAAAAAAAGwU/nkOudSDpI18/s1600/website-background-rough-surface.jpg);
+	font-family: chalkduster, serif;
+}
+
+
 .item {
 	float: left;
 	margin: 5px;
+}
+
+.option {
+	margin: 2px;
+	color: white;
+	background-color: blue;
+}
+
+h1 {
+	color: blue;
+	text-align: center;
+	margin: 5px;
+}
+
+p {
+	text-align: center;
 }
